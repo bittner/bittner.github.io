@@ -1,1 +1,12 @@
+# Site settings
+title: Peter Bittner
+twitter_username: peterbittner
+github_username:  bittner
 theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+
+collections:
+  projects:
+    output: true
